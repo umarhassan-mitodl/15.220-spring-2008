@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "fbfa0414-0e2d-3e57-fdd6-6624da114edb",
+  "instructors": {
+    "content": [
+      "84df954d-7946-429e-6d8a-ca1005305ae5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4261355e-de8b-d74c-5e64-589a3c9e12d8",
+    "website": "15-220-global-strategy-and-organization-spring-2008"
+  },
+  "course_title": "Global Strategy and Organization",
+  "course_description": "Companies today confront an increasing array of choices regarding markets, locations for key activities, outsourcing and ownership modes, and organization and processes for managing across borders. This course provides students with the conceptual tools necessary to understand and work effectively in today's interconnected world by developing strategic perspectives that link this changing environment, the state of the global industry, and the capabilities and position of the firm.\n\nThe goal of this subject is to provide the foundations for taking effective action in the multi-layered world of international business. The first section of the course provides frameworks for identifying and taking advantage of the opportunities presented in a dynamic global environment at the level of the country and industry. The second section of the course focuses on firm-level strategic choices regarding where to engage in which activities. The third section focuses on the challenges of integrating the multiple perspectives, functions, and interests that constitute the multinational firm.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.220",
+  "course_image_thumbnail": {
+    "content": "5eacb603-d8a2-7c34-48b3-a257909c0652",
+    "website": "15-220-global-strategy-and-organization-spring-2008"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "6df9fd95-38eb-4a30-bf0e-f877d121ac36",
+  "site_short_id": "15.220-spring-2008",
+  "site_url_path": "courses/15-220-global-strategy-and-organization-spring-2008",
+  "title": "Course Metadata"
+}
